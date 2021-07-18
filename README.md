@@ -69,3 +69,8 @@ $ sudo ./checks.sh
                      |_|   
 
 ```
+### Check if current day's backup is missing
+Checks certain folders to see if the backups were taken successfully
+```
+$ ./backups.sh
+```
