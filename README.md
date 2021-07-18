@@ -46,9 +46,7 @@ You are logged as root.
 5) Quit 
 
 
-Enter your selection:
-
-E.g. if we choose option 3
+Enter your selection: 3
 
 
 1) Check file system usage 
