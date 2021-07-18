@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Purpose: Check daily backups
-# Author: dion
-# Date created: March 2021
-
 # declare the variables
 declare - arr=("backup1" "backup2" "backup3")
 
