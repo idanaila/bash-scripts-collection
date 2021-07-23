@@ -460,7 +460,7 @@ function lockboot()
 echo -e "\n"
 read -p "Do you want to lock the /boot partition? (y/n) " lockb
 if [ "$lockb" == "y" ]; then
-echo "LABEL=/boot     /boot   ext2    defaults,ro     1 2" | sudo tee -a /etc/fstab > /dev/null
+#echo "LABEL=/boot     /boot   ext2    defaults,ro     1 2" | sudo tee -a /etc/fstab > /dev/null
 elif [ "$lockb" == "n" ]; then
 echo "Abort "
 return 1
