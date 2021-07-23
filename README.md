@@ -19,7 +19,9 @@ Based on your option, the program can ask you to install some packages e.g. ifto
 Install and execute
 $ sudo dpkg -i abs_0.1-1_all.deb
 
-$ sudo abs
+or
+
+$ ./abs.sh
 
 You are logged as root. 
 
